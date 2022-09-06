@@ -30,3 +30,5 @@ _This repo document bash script with the implementation of shell redirection_
 * 11. 11-directories: counts the number of directories and sub dierctories in the current directory
 
 * 12. 12-newest_files: display the 10 newest files in the current dir, one perline sorted from the newest to the oldest.
+
+* 13. 13-unique: print only words that appear only once, one line per word, word should be sorted"
