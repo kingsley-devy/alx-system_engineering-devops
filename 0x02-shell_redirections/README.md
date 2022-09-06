@@ -48,3 +48,5 @@ _This repo document bash script with the implementation of shell redirection_
 * 20. 20-hiago: Removes all letter  c and C from input
 
 * 21. 21-reverse: reverse its input
+
+* 22: 22-users_and_homes: display allusers and thier home
