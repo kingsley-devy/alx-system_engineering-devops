@@ -46,3 +46,5 @@ _This repo document bash script with the implementation of shell redirection_
 * 19. 19-AZ: Replace all characters A and c from input to z and e respectively
 
 * 20. 20-hiago: Removes all letter  c and C from input
+
+* 21. 21-reverse: reverse its input
