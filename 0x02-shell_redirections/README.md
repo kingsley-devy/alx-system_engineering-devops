@@ -23,3 +23,4 @@ _This repo document bash script with the implementation of shell redirection_
 
 * 8. 8-cwd_state: write ls-la into ls_cwd_content
 
+* 9. duplicate_last_line: duplicate last line
