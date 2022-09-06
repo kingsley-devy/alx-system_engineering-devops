@@ -16,3 +16,5 @@ _This repo document bash script with the implementation of shell redirection_
 * 4. 4-lastlines: Display the last 10 lines of /etc/passwd
 
 * 5. 5-firstlines: Display the first 10 lines of etc/passwd
+
+* 6. 6-third_line: Script that display the third line of the file iacta
