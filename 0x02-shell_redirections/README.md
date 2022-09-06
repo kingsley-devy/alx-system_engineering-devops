@@ -28,3 +28,5 @@ _This repo document bash script with the implementation of shell redirection_
 * 10. 10-no_more_js: deletes all the regular files with a .js extension in the current dir and all subfolders
 
 * 11. 11-directories: counts the number of directories and sub dierctories in the current directory
+
+* 12. 12-newest_files: display the 10 newest files in the current dir, one perline sorted from the newest to the oldest.
