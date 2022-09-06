@@ -36,3 +36,5 @@ _This repo document bash script with the implementation of shell redirection_
 * 14. 14-findthatword: Display lines containing the pattern "root from the fthe /etc/passwd"
 
 * 15. 15-countthatword: Display the number of lines that contain the pattern "bin" in the file /etc/paswd
+
+* 16. 16-whatsnext: Display lines containing the pattern "root" and 3 lines after them  in the file /etc/passwd
