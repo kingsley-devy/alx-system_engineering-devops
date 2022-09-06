@@ -20,3 +20,6 @@ _This repo document bash script with the implementation of shell redirection_
 * 6. 6-third_line: Script that display the third line of the file iacta
 
 * 7. 7-file: create a directory with special names
+
+* 8. 8-cwd_state: write ls-la into ls_cwd_content
+
