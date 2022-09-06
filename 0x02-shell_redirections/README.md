@@ -41,3 +41,4 @@ _This repo document bash script with the implementation of shell redirection_
 
 * 17. 17-hidethisword: Display all the lines in the file /etc/passwd that do not contain the pattern bin"
 
+* 18. 18-letteronly: display all lines of the file starting with a leter
