@@ -18,3 +18,5 @@ _This repo document bash script with the implementation of shell redirection_
 * 5. 5-firstlines: Display the first 10 lines of etc/passwd
 
 * 6. 6-third_line: Script that display the third line of the file iacta
+
+* 7. 7-file: create a directory with special names
