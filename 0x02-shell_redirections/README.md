@@ -34,3 +34,5 @@ _This repo document bash script with the implementation of shell redirection_
 * 13. 13-unique: print only words that appear only once, one line per word, word should be sorted"
 
 * 14. 14-findthatword: Display lines containing the pattern "root from the fthe /etc/passwd"
+
+* 15. 15-countthatword: Display the number of lines that contain the pattern "bin" in the file /etc/paswd
