@@ -19,3 +19,5 @@
 8. 7-create_global_variables: create a global variables using the export
 
 9. 8-true_knowledge: add interger to an env variables
+
+10. 9-divde_rule: divide and rule env
