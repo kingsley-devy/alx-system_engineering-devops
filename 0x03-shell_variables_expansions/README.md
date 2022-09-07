@@ -13,3 +13,5 @@
 5. 4-global_variables: print all environmetal variables.
 
 6. 5-local_variables: create local variables
+
+7. 6-create_local_variables: create local variable in the bash
