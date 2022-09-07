@@ -15,3 +15,5 @@
 6. 5-local_variables: create local variables
 
 7. 6-create_local_variables: create local variable in the bash
+
+8. 7-create_global_variables: create a global variables using the export
