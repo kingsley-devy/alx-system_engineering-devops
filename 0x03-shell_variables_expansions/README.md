@@ -7,3 +7,5 @@
 1. 1-hello_you: prints hello user where user is the current linux user.
 
 3. 2-path: add /action to the path.
+
+4. 3-paths: counts the number of directories in the PATH
